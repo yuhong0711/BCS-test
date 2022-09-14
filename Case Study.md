@@ -28,7 +28,7 @@
 
 * Legacy POS integration is expensive, cumbersome and lacks product level (or SKU level) data.
 
-*APP; Mastercard; Visa card and Amex
+* Australian Payment+; Mastercard; Visa card and Amex
 
 ## Results
 
