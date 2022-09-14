@@ -19,34 +19,32 @@
 
 * Commercial merchant
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Acquirers and card schemes fail to utilize transaction and product level data simultaneously across online and in-store channels to generate insights and drive increases in customer engagement and revenue for merchants.
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Payment solution
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* Legacy POS integration is expensive, cumbersome and lacks product level (or SKU level) data.
 
-* What are the other major companies in this domain?
-
+*APP; Mastercard; Visa card and Amex
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Resolutions to payment technology issues for a merchant without disrupting existing banking or merchant acquiring relationships
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* The core metrics that companies in this domain use to measure success is the ability to enable any payment instrument to be accepted.
 
-* How is your company performing relative to competitors in the same domain?
+* Full Point of Sale (Electronic Cash Register) integration with SKU & product level data
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Data ingestion engine, we’re able to match a wide range of data sources for anything that influences customer behaviour, including (but not limited to) demographic data, weather, traffic, economic indicators and local events
 
-* Why do you think that offering this product or service would benefit the company?
+* Reinforce partnership in commerce with merchants or partners that seek a deeper insight
 
-* What technologies would this additional product or service utilize?
+* DataMesh cloud-based POS integration
 
-* Why are these technologies appropriate for your solution?
-# **Case Study - DataMesh**
+* It enables real time basket data analytics. Further, tokenization engine enables customer interaction pattern recognition
