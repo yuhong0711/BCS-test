@@ -1,1 +1,1 @@
-# **Case Study - Datamesh**
+# **Case Study - DataMesh**
